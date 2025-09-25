@@ -1,0 +1,94 @@
+*{
+    background-color: rgb(255, 174, 237);
+}
+.topnav {
+    border: 1px solid black;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: rgb(203, 150, 218);
+    text-align: center;
+    position: sticky;
+    top: 1px;
+    overflow: auto;
+    z-index: 1;
+}
+
+#grrai{
+    background-color: rgb(203, 150, 218);
+    position: relative;
+    bottom: 20px;
+    right: 20%;
+}
+
+#booai{
+    background-color: rgb(203, 150, 218);
+    position: relative;
+    bottom: 20px;
+    right: 15%;
+}
+#logo{
+    background-color: rgb(203, 150, 218);
+    position: relative;
+    bottom: 30%;
+    right: 25%;
+    width:50px;
+}
+#stuff{
+    position:relative;
+    bottom: 20px;
+    right:10%;
+    width: 50px;
+    background-color: rgb(203, 150, 218);
+}
+
+#para{
+    float: right;
+    width:60%;
+    border:1px solid rgb(240, 228, 163);
+    background-color: rgb(240, 228, 163);
+    overflow: hidden;
+}
+#fire{
+    width: 450px;
+
+}
+#link{
+    position: relative;
+    top: 10px;
+    float: none;
+    background-color: rgb(217, 161, 217);
+}
+#para2{
+    float: left;
+    width:55%;
+    border:1px solid rgb(240, 228, 163);
+    background-color: rgb(240, 228, 163);
+    overflow: hidden;
+}
+
+#water{
+    width: 450px;
+}
+
+.table{
+    border:1px solid black;
+    position:relative;
+    left:5%;
+    background-color: rgb(240, 228, 163);
+    z-index: 0;
+}
+#supprt{
+    position:fixed;
+    bottom:5%;
+    right:5%;
+    width:20%;
+    margin:0;
+}
+#me{
+    float: left;
+}
+.ref{
+    font-size: small;
+}
